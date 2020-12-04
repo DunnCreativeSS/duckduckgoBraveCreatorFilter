@@ -1,3 +1,4 @@
+If you found this repo useful, consider clicking the sponsor button near the top :) Sponsoring via GitHub is as little as $1/month and if you do not use banks or credit cards, there are crypto links included :)<br /><br />
 Haha I tried my best to get this to work. Turns out there's a limit to how long a url address can be, so appending 17mb worth of text didn't really work out all that well :P
 
 
